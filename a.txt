@@ -2,3 +2,4 @@ novo arquivo de texto
 testando clone
 enviando 
 a funcionalidade x
+funcionalidade b
